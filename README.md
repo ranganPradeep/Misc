@@ -11,8 +11,13 @@ Folder Structure
 └── shakespeare_trim.txt
 
 
+
 Solution for Question-01 >> Solution_Q_01.ipynb
+
+
 Solution for Question-02 >> Solution_Q_02.ipynb [Please enter the input phoneme string in Cell-7 which asks for input_seq_phone]
+
+
 Solution for Question-03 >> Solution_Q_03.c
     To execute run the following commands:
     >> gcc Solution_Q_03.c -o Solution_Q_03
